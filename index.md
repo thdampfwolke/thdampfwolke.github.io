@@ -15,3 +15,5 @@ wort20 wort21 wort22 wort23 wort24 wort25 wort26 wort27 wort28 wort29
 * Unordered List 5
 
 > Das ist ein Zitat
+
+<img src="https://openhpi.azureedge.net/assets/logo_openhpi-155a11eefd46841c38fb009a2d9b84d28550a0c920fbf50b591b3aa1f7c0190c.png"/>
